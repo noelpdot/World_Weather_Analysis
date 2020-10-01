@@ -6,7 +6,7 @@ To use data collected from an API and use the information to plot heatmap layers
 This will help a user get more information, in this regards to plan a vacation with a temperature preferrence.
 
 ## Resources 
-- gmpas API
+- gmaps API
 - openweather API
 - Jupyter Lab v2.2.6
 - Jupyter notebook v6.1.1
